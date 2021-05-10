@@ -1,26 +1,26 @@
 
 .logo {
   font-family: "PT Serif";
-  font-style: Bold
+  font-style: Bold;
 }
 
 
 .menu {
   font-family: "Roboto";
-  font-style: Medium
+  font-style: Medium;
 }
 
 
 
 
-.title{
+.title {
   font-family: "PT Serif";
-  font-style: Bold
+  font-style: Bold;
 }
 
 
 
-.discription{
+.discription {
   font-family: "Roboto";
   font-style: Regular;
  }
@@ -28,7 +28,7 @@
 
 
 
-.button{
+.button {
   font-family: "Roboto";
   font-style: Medium;
   }
