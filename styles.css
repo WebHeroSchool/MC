@@ -1,36 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Roboto:wght@700&display=swap');
+@import
+
 
 .logo {
-  font-family: PT Serif;
+  font-family: "PT Serif";
   font-style: Bold
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
 
 .menu {
-  font-family: Roboto;
+  font-family: "Roboto";
   font-style: Medium
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Roboto:ital,wght@1,500&display=swap');
+
 
 .title{
-  font-family: PT Serif;
+  font-family: "PT Serif";
   font-style: Bold
 }
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Roboto&display=swap');
+
 
 .discription{
-  font-family: Roboto;
+  font-family: "Roboto";
   font-style: Regular;
  }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
 
 .button{
-  font-family: Roboto;
+  font-family: "Roboto";
   font-style: Medium;
   }
